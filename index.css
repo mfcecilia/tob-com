@@ -56,6 +56,19 @@ hr {
     margin: auto;
 }
 
+.team-tile {
+    display: flex;
+    max-width: 50%;
+    margin: auto;
+}
+.team-tile img {
+    max-width: 30%;
+}
+
+.team-tile p {
+    text-align: center;
+}
+
 footer {
     text-align: center;
     color: gray;
