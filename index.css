@@ -35,6 +35,7 @@ p {
 
 hr {
     max-width: 60%;
+    color: grey;
 }
 
 .yt-vid {
@@ -47,7 +48,7 @@ hr {
     width: 60%;
     margin: auto;
     display: block;
-    height: 525px;
+    height: 600px;
 }
 
 #yt-vid {
