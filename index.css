@@ -56,13 +56,8 @@ hr {
     margin: auto;
 }
 
-.team-tile {
-    display: flex;
-    max-width: 50%;
-    margin: auto;
-}
-.team-tile img {
-    max-width: 30%;
+.team {
+    text-align: center;
 }
 
 
