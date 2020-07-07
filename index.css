@@ -38,6 +38,22 @@ hr {
     color: grey;
 }
 
+button {
+    display: block;
+    margin: auto;
+    width: 15%;
+    cursor: pointer;
+    line-height: 300%;
+    font-size: 1.1em;
+    background-color: black;
+    color: snow;
+}
+
+button:hover {
+    color: black;
+    background-color: snow;
+}
+
 .yt-vid {
     margin: auto;
     text-align: center;
