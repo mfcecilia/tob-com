@@ -11,6 +11,9 @@ function copyrightYear() {
 //countdown to burning man
 
 // Set the date we're counting down to
-var countDownDate = new Date("August 30, 2020 15:37:25").getTime();
+var deadline = new Date("August 30, 2020").getTime();
+//current date
+var now = new Date().getTime();
+
 
 //countdown to end of burning man
