@@ -14,6 +14,7 @@ function copyrightYear() {
 var deadline = new Date("August 30, 2020").getTime();
 //current date
 var now = new Date().getTime();
-
+// time remaining
+var count = deadline - now;
 
 //countdown to end of burning man
