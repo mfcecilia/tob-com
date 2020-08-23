@@ -16,5 +16,9 @@ var deadline = new Date("August 30, 2020").getTime();
 var now = new Date().getTime();
 // time remaining
 var count = deadline - now;
+// days
+var days = Math.floor(count/(1000 * 60 * 60 * 24));
+// output
+
 
 //countdown to end of burning man
